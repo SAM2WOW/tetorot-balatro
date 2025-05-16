@@ -10,8 +10,9 @@ SMODS.Back({
     loc_txt = {
         name = "Teto Deck",
         text={
-        "Start with an",
-        "{C:attention}Dr. Kidori{}",
+        "Start with 2 jokers: ",
+        "{C:attention}Dr. Kidori{} and ",
+        "{C:attention}Fatass Teto{}",
         },
     },
 	
