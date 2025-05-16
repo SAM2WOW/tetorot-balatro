@@ -1,0 +1,19 @@
+{
+	"id": "Tetorot",
+	"name": "Tetorot",
+	"display_name": "Tetorot",
+	"author": [
+		"Arx"
+	],
+	"description": "Yu! Teto brainrot mod.",
+	"prefix": "tetorot",
+	"main_file": "teto.lua",
+	"priority": 0,
+	"badge_colour": "e0637e",
+	"badge_text_colour": "FFFFFF",
+	"version": "0.0.1",
+	"dependencies": [
+	],
+	"conflicts": [
+	]
+}
